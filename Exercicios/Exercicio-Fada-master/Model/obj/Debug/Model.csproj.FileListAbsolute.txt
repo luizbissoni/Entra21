@@ -1,0 +1,15 @@
+C:\Users\Windows 10\Documents\GitHub\trabalho-youtuber\Exercicio-Fada\Model\bin\Debug\Model.dll
+C:\Users\Windows 10\Documents\GitHub\trabalho-youtuber\Exercicio-Fada\Model\bin\Debug\Model.pdb
+C:\Users\Windows 10\Documents\GitHub\trabalho-youtuber\Exercicio-Fada\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Windows 10\Documents\GitHub\trabalho-youtuber\Exercicio-Fada\Model\obj\Debug\Model.dll
+C:\Users\Windows 10\Documents\GitHub\trabalho-youtuber\Exercicio-Fada\Model\obj\Debug\Model.pdb
+C:\Users\100085\Documents\GitHub\Exercicio-Fada\Model\bin\Debug\Model.dll
+C:\Users\100085\Documents\GitHub\Exercicio-Fada\Model\bin\Debug\Model.pdb
+C:\Users\100085\Documents\GitHub\Exercicio-Fada\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\100085\Documents\GitHub\Exercicio-Fada\Model\obj\Debug\Model.dll
+C:\Users\100085\Documents\GitHub\Exercicio-Fada\Model\obj\Debug\Model.pdb
+C:\Users\T-Gamer\Documents\GitHub\Exercicio-Fada\Model\bin\Debug\Model.dll
+C:\Users\T-Gamer\Documents\GitHub\Exercicio-Fada\Model\bin\Debug\Model.pdb
+C:\Users\T-Gamer\Documents\GitHub\Exercicio-Fada\Model\obj\Debug\Model.dll
+C:\Users\T-Gamer\Documents\GitHub\Exercicio-Fada\Model\obj\Debug\Model.pdb
+C:\Users\T-Gamer\Documents\GitHub\Exercicio-Fada\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache

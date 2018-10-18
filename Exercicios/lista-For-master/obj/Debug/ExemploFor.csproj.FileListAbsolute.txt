@@ -1,0 +1,6 @@
+c:\users\100085\documents\visual studio 2013\Projects\ExemploFor\ExemploFor\bin\Debug\ExemploFor.exe.config
+c:\users\100085\documents\visual studio 2013\Projects\ExemploFor\ExemploFor\obj\Debug\ExemploFor.csprojResolveAssemblyReference.cache
+c:\users\100085\documents\visual studio 2013\Projects\ExemploFor\ExemploFor\bin\Debug\ExemploFor.exe
+c:\users\100085\documents\visual studio 2013\Projects\ExemploFor\ExemploFor\bin\Debug\ExemploFor.pdb
+c:\users\100085\documents\visual studio 2013\Projects\ExemploFor\ExemploFor\obj\Debug\ExemploFor.exe
+c:\users\100085\documents\visual studio 2013\Projects\ExemploFor\ExemploFor\obj\Debug\ExemploFor.pdb

@@ -1,0 +1,36 @@
+C:\Users\100085\Documents\GitHub\ExemploWFA\ExemploWFA\bin\Debug\ExemploWFA.exe.config
+C:\Users\100085\Documents\GitHub\ExemploWFA\ExemploWFA\bin\Debug\ExemploWFA.exe
+C:\Users\100085\Documents\GitHub\ExemploWFA\ExemploWFA\bin\Debug\ExemploWFA.pdb
+C:\Users\100085\Documents\GitHub\ExemploWFA\ExemploWFA\obj\Debug\ExemploWFA.csprojResolveAssemblyReference.cache
+C:\Users\100085\Documents\GitHub\ExemploWFA\ExemploWFA\obj\Debug\ExemploWFA.Form1.resources
+C:\Users\100085\Documents\GitHub\ExemploWFA\ExemploWFA\obj\Debug\ExemploWFA.Properties.Resources.resources
+C:\Users\100085\Documents\GitHub\ExemploWFA\ExemploWFA\obj\Debug\ExemploWFA.csproj.GenerateResource.Cache
+C:\Users\100085\Documents\GitHub\ExemploWFA\ExemploWFA\obj\Debug\ExemploWFA.exe
+C:\Users\100085\Documents\GitHub\ExemploWFA\ExemploWFA\obj\Debug\ExemploWFA.pdb
+C:\Users\100085\Documents\GitHub\ExemploWFA\ExemploWFA\obj\Debug\ExemploWFA.Exemplo02.resources
+C:\Users\100085\Documents\GitHub\ExemploWFA\ExemploWFA\obj\Debug\ExemploWFA.Exemplo03.resources
+C:\Users\Windows 10\Documents\GitHub\Exemplo-WFA\bin\Debug\ExemploWFA.exe.config
+C:\Users\Windows 10\Documents\GitHub\Exemplo-WFA\obj\Debug\ExemploWFA.exe
+C:\Users\Windows 10\Documents\GitHub\Exemplo-WFA\obj\Debug\ExemploWFA.pdb
+C:\Users\Windows 10\Documents\GitHub\Exemplo-WFA\bin\Debug\ExemploWFA.exe
+C:\Users\Windows 10\Documents\GitHub\Exemplo-WFA\bin\Debug\ExemploWFA.pdb
+C:\Users\Windows 10\Documents\GitHub\Exemplo-WFA\obj\Debug\ExemploWFA.csprojResolveAssemblyReference.cache
+C:\Users\Windows 10\Documents\GitHub\Exemplo-WFA\obj\Debug\ExemploWFA.Exemplo02.resources
+C:\Users\Windows 10\Documents\GitHub\Exemplo-WFA\obj\Debug\ExemploWFA.Exemplo03.resources
+C:\Users\Windows 10\Documents\GitHub\Exemplo-WFA\obj\Debug\ExemploWFA.Exemplo01.resources
+C:\Users\Windows 10\Documents\GitHub\Exemplo-WFA\obj\Debug\ExemploWFA.Properties.Resources.resources
+C:\Users\Windows 10\Documents\GitHub\Exemplo-WFA\obj\Debug\ExemploWFA.csproj.GenerateResource.Cache
+C:\Users\100085\Documents\GitHub\Exemplo-WFA\bin\Debug\ExemploWFA.exe.config
+C:\Users\100085\Documents\GitHub\Exemplo-WFA\obj\Debug\ExemploWFA.exe
+C:\Users\100085\Documents\GitHub\Exemplo-WFA\obj\Debug\ExemploWFA.pdb
+C:\Users\100085\Documents\GitHub\Exemplo-WFA\bin\Debug\ExemploWFA.exe
+C:\Users\100085\Documents\GitHub\Exemplo-WFA\bin\Debug\ExemploWFA.pdb
+C:\Users\100085\Documents\GitHub\Exemplo-WFA\obj\Debug\ExemploWFA.csprojResolveAssemblyReference.cache
+C:\Users\100085\Documents\GitHub\Exemplo-WFA\obj\Debug\ExemploWFA.Exemplo02.resources
+C:\Users\100085\Documents\GitHub\Exemplo-WFA\obj\Debug\ExemploWFA.Exemplo03.resources
+C:\Users\100085\Documents\GitHub\Exemplo-WFA\obj\Debug\ExemploWFA.Exemplo01.resources
+C:\Users\100085\Documents\GitHub\Exemplo-WFA\obj\Debug\ExemploWFA.Properties.Resources.resources
+C:\Users\100085\Documents\GitHub\Exemplo-WFA\obj\Debug\ExemploWFA.csproj.GenerateResource.Cache
+C:\Users\100085\Documents\GitHub\Exemplo-WFA\obj\Debug\ExemploWFA.Exemplo04.resources
+C:\Users\100085\Documents\GitHub\Exemplo-WFA\obj\Debug\ExemploWFA.Exemplo05.resources
+C:\Users\100085\Documents\GitHub\Exemplo-WFA\obj\Debug\ExemploWFA.Principal.resources

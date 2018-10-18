@@ -1,0 +1,18 @@
+c:\users\windows 10\documents\visual studio 2013\Projects\MarketDesktop\MarketDesktop\bin\Debug\MarketDesktop.exe.config
+c:\users\windows 10\documents\visual studio 2013\Projects\MarketDesktop\MarketDesktop\bin\Debug\MarketDesktop.exe
+c:\users\windows 10\documents\visual studio 2013\Projects\MarketDesktop\MarketDesktop\bin\Debug\MarketDesktop.pdb
+c:\users\windows 10\documents\visual studio 2013\Projects\MarketDesktop\MarketDesktop\obj\Debug\MarketDesktop.Properties.Resources.resources
+c:\users\windows 10\documents\visual studio 2013\Projects\MarketDesktop\MarketDesktop\obj\Debug\MarketDesktop.csproj.GenerateResource.Cache
+c:\users\windows 10\documents\visual studio 2013\Projects\MarketDesktop\MarketDesktop\obj\Debug\MarketDesktop.exe
+c:\users\windows 10\documents\visual studio 2013\Projects\MarketDesktop\MarketDesktop\obj\Debug\MarketDesktop.pdb
+c:\users\windows 10\documents\visual studio 2013\Projects\MarketDesktop\MarketDesktop\obj\Debug\MarketDesktop.FormPrincipal.resources
+c:\users\windows 10\documents\visual studio 2013\Projects\MarketDesktop\MarketDesktop\obj\Debug\MarketDesktop.csprojResolveAssemblyReference.cache
+C:\Users\100085\Documents\GitHub\pratica-forms\bin\Debug\MarketDesktop.exe.config
+C:\Users\100085\Documents\GitHub\pratica-forms\obj\Debug\MarketDesktop.exe
+C:\Users\100085\Documents\GitHub\pratica-forms\obj\Debug\MarketDesktop.pdb
+C:\Users\100085\Documents\GitHub\pratica-forms\bin\Debug\MarketDesktop.exe
+C:\Users\100085\Documents\GitHub\pratica-forms\bin\Debug\MarketDesktop.pdb
+C:\Users\100085\Documents\GitHub\pratica-forms\obj\Debug\MarketDesktop.csprojResolveAssemblyReference.cache
+C:\Users\100085\Documents\GitHub\pratica-forms\obj\Debug\MarketDesktop.FormPrincipal.resources
+C:\Users\100085\Documents\GitHub\pratica-forms\obj\Debug\MarketDesktop.Properties.Resources.resources
+C:\Users\100085\Documents\GitHub\pratica-forms\obj\Debug\MarketDesktop.csproj.GenerateResource.Cache

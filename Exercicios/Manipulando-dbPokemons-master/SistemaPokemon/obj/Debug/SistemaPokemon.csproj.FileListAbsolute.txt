@@ -1,0 +1,22 @@
+c:\users\t-gamer\documents\visual studio 2013\Projects\SistemaPokemon\SistemaPokemon\bin\Debug\SistemaPokemon.exe.config
+c:\users\t-gamer\documents\visual studio 2013\Projects\SistemaPokemon\SistemaPokemon\bin\Debug\pokemons.mdf
+c:\users\t-gamer\documents\visual studio 2013\Projects\SistemaPokemon\SistemaPokemon\bin\Debug\pokemons_log.ldf
+c:\users\t-gamer\documents\visual studio 2013\Projects\SistemaPokemon\SistemaPokemon\bin\Debug\SistemaPokemon.exe
+c:\users\t-gamer\documents\visual studio 2013\Projects\SistemaPokemon\SistemaPokemon\bin\Debug\SistemaPokemon.pdb
+c:\users\t-gamer\documents\visual studio 2013\Projects\SistemaPokemon\SistemaPokemon\obj\Debug\SistemaPokemon.csprojResolveAssemblyReference.cache
+c:\users\t-gamer\documents\visual studio 2013\Projects\SistemaPokemon\SistemaPokemon\obj\Debug\SistemaPokemon.Form1.resources
+c:\users\t-gamer\documents\visual studio 2013\Projects\SistemaPokemon\SistemaPokemon\obj\Debug\SistemaPokemon.Properties.Resources.resources
+c:\users\t-gamer\documents\visual studio 2013\Projects\SistemaPokemon\SistemaPokemon\obj\Debug\SistemaPokemon.csproj.GenerateResource.Cache
+c:\users\t-gamer\documents\visual studio 2013\Projects\SistemaPokemon\SistemaPokemon\obj\Debug\SistemaPokemon.exe
+c:\users\t-gamer\documents\visual studio 2013\Projects\SistemaPokemon\SistemaPokemon\obj\Debug\SistemaPokemon.pdb
+C:\Users\100085\Documents\GitHub\Manipulando-dbPokemons\SistemaPokemon\bin\Debug\SistemaPokemon.exe.config
+C:\Users\100085\Documents\GitHub\Manipulando-dbPokemons\SistemaPokemon\obj\Debug\SistemaPokemon.exe
+C:\Users\100085\Documents\GitHub\Manipulando-dbPokemons\SistemaPokemon\obj\Debug\SistemaPokemon.pdb
+C:\Users\100085\Documents\GitHub\Manipulando-dbPokemons\SistemaPokemon\bin\Debug\pokemons.mdf
+C:\Users\100085\Documents\GitHub\Manipulando-dbPokemons\SistemaPokemon\bin\Debug\pokemons_log.ldf
+C:\Users\100085\Documents\GitHub\Manipulando-dbPokemons\SistemaPokemon\bin\Debug\SistemaPokemon.exe
+C:\Users\100085\Documents\GitHub\Manipulando-dbPokemons\SistemaPokemon\bin\Debug\SistemaPokemon.pdb
+C:\Users\100085\Documents\GitHub\Manipulando-dbPokemons\SistemaPokemon\obj\Debug\SistemaPokemon.csprojResolveAssemblyReference.cache
+C:\Users\100085\Documents\GitHub\Manipulando-dbPokemons\SistemaPokemon\obj\Debug\SistemaPokemon.Form1.resources
+C:\Users\100085\Documents\GitHub\Manipulando-dbPokemons\SistemaPokemon\obj\Debug\SistemaPokemon.Properties.Resources.resources
+C:\Users\100085\Documents\GitHub\Manipulando-dbPokemons\SistemaPokemon\obj\Debug\SistemaPokemon.csproj.GenerateResource.Cache

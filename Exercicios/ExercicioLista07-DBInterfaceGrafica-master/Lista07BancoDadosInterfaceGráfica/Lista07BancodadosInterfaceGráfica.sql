@@ -1,0 +1,4 @@
+﻿--DROP TABLE alunos;
+
+CREATE TABLE alunos(id INT PRIMARY KEY IDENTITY(1,1),nome VARCHAR(150) NOT NULL, matricula TINYINT NOT NULL, 
+nota_1 INT NOT NULL, nota_2 INT NOT NULL, nota_3 INT NOT NULL, frequencia TINYINT);

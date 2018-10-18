@@ -1,0 +1,62 @@
+C:\Users\Windows 10\Documents\GitHub\lista2-forms\Lista de Estrutura Condicional - Forms\Lista de Estrutura Condicional - Forms\bin\Debug\Lista de Estrutura Condicional - Forms.exe.config
+C:\Users\Windows 10\Documents\GitHub\lista2-forms\Lista de Estrutura Condicional - Forms\Lista de Estrutura Condicional - Forms\bin\Debug\Lista de Estrutura Condicional - Forms.exe
+C:\Users\Windows 10\Documents\GitHub\lista2-forms\Lista de Estrutura Condicional - Forms\Lista de Estrutura Condicional - Forms\bin\Debug\Lista de Estrutura Condicional - Forms.pdb
+C:\Users\Windows 10\Documents\GitHub\lista2-forms\Lista de Estrutura Condicional - Forms\Lista de Estrutura Condicional - Forms\obj\Debug\Lista de Estrutura Condicional - Forms.csprojResolveAssemblyReference.cache
+C:\Users\Windows 10\Documents\GitHub\lista2-forms\Lista de Estrutura Condicional - Forms\Lista de Estrutura Condicional - Forms\obj\Debug\Lista_de_Estrutura_Condicional___Forms.Exercicio01.resources
+C:\Users\Windows 10\Documents\GitHub\lista2-forms\Lista de Estrutura Condicional - Forms\Lista de Estrutura Condicional - Forms\obj\Debug\Lista_de_Estrutura_Condicional___Forms.Exercicio02.resources
+C:\Users\Windows 10\Documents\GitHub\lista2-forms\Lista de Estrutura Condicional - Forms\Lista de Estrutura Condicional - Forms\obj\Debug\Lista_de_Estrutura_Condicional___Forms.Exercicio03.resources
+C:\Users\Windows 10\Documents\GitHub\lista2-forms\Lista de Estrutura Condicional - Forms\Lista de Estrutura Condicional - Forms\obj\Debug\Lista_de_Estrutura_Condicional___Forms.Exercicio04.resources
+C:\Users\Windows 10\Documents\GitHub\lista2-forms\Lista de Estrutura Condicional - Forms\Lista de Estrutura Condicional - Forms\obj\Debug\Lista_de_Estrutura_Condicional___Forms.Exercicio05.resources
+C:\Users\Windows 10\Documents\GitHub\lista2-forms\Lista de Estrutura Condicional - Forms\Lista de Estrutura Condicional - Forms\obj\Debug\Lista_de_Estrutura_Condicional___Forms.Exercicio06.resources
+C:\Users\Windows 10\Documents\GitHub\lista2-forms\Lista de Estrutura Condicional - Forms\Lista de Estrutura Condicional - Forms\obj\Debug\Lista_de_Estrutura_Condicional___Forms.Exercicio07.resources
+C:\Users\Windows 10\Documents\GitHub\lista2-forms\Lista de Estrutura Condicional - Forms\Lista de Estrutura Condicional - Forms\obj\Debug\Lista_de_Estrutura_Condicional___Forms.Exercicio08.resources
+C:\Users\Windows 10\Documents\GitHub\lista2-forms\Lista de Estrutura Condicional - Forms\Lista de Estrutura Condicional - Forms\obj\Debug\Lista_de_Estrutura_Condicional___Forms.MenuPrincipal.resources
+C:\Users\Windows 10\Documents\GitHub\lista2-forms\Lista de Estrutura Condicional - Forms\Lista de Estrutura Condicional - Forms\obj\Debug\Lista_de_Estrutura_Condicional___Forms.Properties.Resources.resources
+C:\Users\Windows 10\Documents\GitHub\lista2-forms\Lista de Estrutura Condicional - Forms\Lista de Estrutura Condicional - Forms\obj\Debug\Lista de Estrutura Condicional - Forms.csproj.GenerateResource.Cache
+C:\Users\Windows 10\Documents\GitHub\lista2-forms\Lista de Estrutura Condicional - Forms\Lista de Estrutura Condicional - Forms\obj\Debug\Lista de Estrutura Condicional - Forms.exe
+C:\Users\Windows 10\Documents\GitHub\lista2-forms\Lista de Estrutura Condicional - Forms\Lista de Estrutura Condicional - Forms\obj\Debug\Lista de Estrutura Condicional - Forms.pdb
+C:\Users\Windows 10\Documents\GitHub\lista02-forms\bin\Debug\Lista de Estrutura Condicional - Forms.exe.config
+C:\Users\Windows 10\Documents\GitHub\lista02-forms\obj\Debug\Lista de Estrutura Condicional - Forms.exe
+C:\Users\Windows 10\Documents\GitHub\lista02-forms\obj\Debug\Lista de Estrutura Condicional - Forms.pdb
+C:\Users\Windows 10\Documents\GitHub\lista02-forms\bin\Debug\Lista de Estrutura Condicional - Forms.exe
+C:\Users\Windows 10\Documents\GitHub\lista02-forms\bin\Debug\Lista de Estrutura Condicional - Forms.pdb
+C:\Users\Windows 10\Documents\GitHub\lista02-forms\obj\Debug\Lista de Estrutura Condicional - Forms.csprojResolveAssemblyReference.cache
+C:\Users\Windows 10\Documents\GitHub\lista02-forms\obj\Debug\Lista_de_Estrutura_Condicional___Forms.Exercicio01.resources
+C:\Users\Windows 10\Documents\GitHub\lista02-forms\obj\Debug\Lista_de_Estrutura_Condicional___Forms.Exercicio02.resources
+C:\Users\Windows 10\Documents\GitHub\lista02-forms\obj\Debug\Lista_de_Estrutura_Condicional___Forms.Exercicio03.resources
+C:\Users\Windows 10\Documents\GitHub\lista02-forms\obj\Debug\Lista_de_Estrutura_Condicional___Forms.Exercicio04.resources
+C:\Users\Windows 10\Documents\GitHub\lista02-forms\obj\Debug\Lista_de_Estrutura_Condicional___Forms.Exercicio05.resources
+C:\Users\Windows 10\Documents\GitHub\lista02-forms\obj\Debug\Lista_de_Estrutura_Condicional___Forms.Exercicio06.resources
+C:\Users\Windows 10\Documents\GitHub\lista02-forms\obj\Debug\Lista_de_Estrutura_Condicional___Forms.Exercicio07.resources
+C:\Users\Windows 10\Documents\GitHub\lista02-forms\obj\Debug\Lista_de_Estrutura_Condicional___Forms.Exercicio08.resources
+C:\Users\Windows 10\Documents\GitHub\lista02-forms\obj\Debug\Lista_de_Estrutura_Condicional___Forms.MenuPrincipal.resources
+C:\Users\Windows 10\Documents\GitHub\lista02-forms\obj\Debug\Lista_de_Estrutura_Condicional___Forms.Properties.Resources.resources
+C:\Users\Windows 10\Documents\GitHub\lista02-forms\obj\Debug\Lista de Estrutura Condicional - Forms.csproj.GenerateResource.Cache
+C:\Users\Windows 10\Documents\GitHub\lista02-forms\obj\Debug\Lista_de_Estrutura_Condicional___Forms.Exercicio09.resources
+C:\Users\100085\Documents\GitHub\lista02-forms\bin\Debug\Lista de Estrutura Condicional - Forms.exe.config
+C:\Users\100085\Documents\GitHub\lista02-forms\obj\Debug\Lista de Estrutura Condicional - Forms.exe
+C:\Users\100085\Documents\GitHub\lista02-forms\obj\Debug\Lista de Estrutura Condicional - Forms.pdb
+C:\Users\100085\Documents\GitHub\lista02-forms\bin\Debug\Lista de Estrutura Condicional - Forms.exe
+C:\Users\100085\Documents\GitHub\lista02-forms\bin\Debug\Lista de Estrutura Condicional - Forms.pdb
+C:\Users\100085\Documents\GitHub\lista02-forms\obj\Debug\Lista de Estrutura Condicional - Forms.csprojResolveAssemblyReference.cache
+C:\Users\100085\Documents\GitHub\lista02-forms\obj\Debug\Lista_de_Estrutura_Condicional___Forms.Exercicio01.resources
+C:\Users\100085\Documents\GitHub\lista02-forms\obj\Debug\Lista_de_Estrutura_Condicional___Forms.Exercicio02.resources
+C:\Users\100085\Documents\GitHub\lista02-forms\obj\Debug\Lista_de_Estrutura_Condicional___Forms.Exercicio03.resources
+C:\Users\100085\Documents\GitHub\lista02-forms\obj\Debug\Lista_de_Estrutura_Condicional___Forms.Exercicio04.resources
+C:\Users\100085\Documents\GitHub\lista02-forms\obj\Debug\Lista_de_Estrutura_Condicional___Forms.Exercicio05.resources
+C:\Users\100085\Documents\GitHub\lista02-forms\obj\Debug\Lista_de_Estrutura_Condicional___Forms.Exercicio06.resources
+C:\Users\100085\Documents\GitHub\lista02-forms\obj\Debug\Lista_de_Estrutura_Condicional___Forms.Exercicio07.resources
+C:\Users\100085\Documents\GitHub\lista02-forms\obj\Debug\Lista_de_Estrutura_Condicional___Forms.Exercicio08.resources
+C:\Users\100085\Documents\GitHub\lista02-forms\obj\Debug\Lista_de_Estrutura_Condicional___Forms.Exercicio09.resources
+C:\Users\100085\Documents\GitHub\lista02-forms\obj\Debug\Lista_de_Estrutura_Condicional___Forms.Exercicio10.resources
+C:\Users\100085\Documents\GitHub\lista02-forms\obj\Debug\Lista_de_Estrutura_Condicional___Forms.MenuPrincipal.resources
+C:\Users\100085\Documents\GitHub\lista02-forms\obj\Debug\Lista_de_Estrutura_Condicional___Forms.Properties.Resources.resources
+C:\Users\100085\Documents\GitHub\lista02-forms\obj\Debug\Lista de Estrutura Condicional - Forms.csproj.GenerateResource.Cache
+C:\Users\100085\Documents\GitHub\lista02-forms\obj\Debug\Lista_de_Estrutura_Condicional___Forms.Exercicio11.resources
+C:\Users\100085\Documents\GitHub\lista02-forms\obj\Debug\Lista_de_Estrutura_Condicional___Forms.Exercicio12.resources
+C:\Users\Windows 10\Documents\GitHub\lista02-forms\obj\Debug\Lista_de_Estrutura_Condicional___Forms.Exercicio10.resources
+C:\Users\Windows 10\Documents\GitHub\lista02-forms\obj\Debug\Lista_de_Estrutura_Condicional___Forms.Exercicio11.resources
+C:\Users\Windows 10\Documents\GitHub\lista02-forms\obj\Debug\Lista_de_Estrutura_Condicional___Forms.Exercicio12.resources
+C:\Users\Windows 10\Documents\GitHub\lista02-forms\obj\Debug\Lista_de_Estrutura_Condicional___Forms.Exercicio13.resources
+C:\Users\Windows 10\Documents\GitHub\lista02-forms\obj\Debug\Lista_de_Estrutura_Condicional___Forms.Exercicio14.resources
+C:\Users\Windows 10\Documents\GitHub\lista02-forms\obj\Debug\Lista_de_Estrutura_Condicional___Forms.Exercicio16.resources

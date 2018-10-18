@@ -1,0 +1,38 @@
+﻿@{
+    Layout = "~/Views/shared/Master.cshtml";
+}
+
+
+<div>
+    <form action="/Recrutadora/Store" method="post" onsubmit="validarFormulario()">
+        <div class="form-group" id="div-campo-nome">
+            <label for="campo-nome">Nome<span class="text-danger font-weight-bold">*</span></label>
+            <input type="text" class="form-control" name="Recrutadora.Nome" id="campo-nome" required="required" onfocusout="validarCampoNome()" value="@ViewBag.Recrutadora.Nome"/>
+            @Html.ValidationMessage("Recrutadora.Nome", new { @class = "text-danger" })
+        </div>
+        <div>
+            <label for="campo-cpf">CPF<span class="text-danger font-weight-bold">*</span></label>
+            <input type="text" class="form-control" name="Recrutadora.CPF" id="campo-cpf" required="required" value="@ViewBag.Recrutadora.CPF"/>
+            @Html.ValidationMessage("Recrutadora.CPF", new { @class = "text-danger" })
+        </div>
+        <div>
+            <label for="campo-salario">Salário</label>
+            <input type="text" class="form-control" name="Recrutadora.Salario" id="campo-salario" required="required" value="@ViewBag.Recrutadora.Salario"/>
+            @Html.ValidationMessage("Recrutadora.Salario", new { @class = "text-danger" })
+        </div>
+        <div>
+            <label for="campo-tempo-empresa">Tempo Empresa</label>
+            <select id="campo-tempo-empresa" name="Recrutadora.TempoEmpresa" class="form-control">
+                <option value="0">0 ano</option>
+                <option value="1">1 ano</option>
+                <option value="2">2 ano</option>
+                <option value="3">3 ano</option>
+                <option value="4">4 ano</option>
+                <option value="5">5 ano</option>
+                <option value="6">6 ano</option>
+            </select>
+            @Html.ValidationMessage("Recrutadora.TempoEmpresa", new { @class = "text-danger" })
+        </div>
+        <button type="submit" class="btn btn-outline-success"><i class="fa fa-save"></i> Salvar</button>
+    </form>
+</div>

@@ -1,0 +1,5 @@
+C:\Users\100085\Documents\Visual Studio 2013\Projects\ExemplosBasicos\ListaExercicios02\bin\Release\ListaExercicios02.exe.config
+C:\Users\100085\Documents\Visual Studio 2013\Projects\ExemplosBasicos\ListaExercicios02\bin\Release\ListaExercicios02.exe
+C:\Users\100085\Documents\Visual Studio 2013\Projects\ExemplosBasicos\ListaExercicios02\bin\Release\ListaExercicios02.pdb
+C:\Users\100085\Documents\Visual Studio 2013\Projects\ExemplosBasicos\ListaExercicios02\obj\Release\ListaExercicios02.exe
+C:\Users\100085\Documents\Visual Studio 2013\Projects\ExemplosBasicos\ListaExercicios02\obj\Release\ListaExercicios02.pdb

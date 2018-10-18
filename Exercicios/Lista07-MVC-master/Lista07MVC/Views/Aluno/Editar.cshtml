@@ -1,0 +1,59 @@
+﻿@{
+    Layout = "~/Views/Shared/Master.cshtml";
+}
+
+@Html.ActionLink("Home", "Index", "Index", new { @class = "btn btn-dark float-right mb-2 mt-2" })
+
+<div>
+    <div class="container">
+        <h2><i class="fa fa-user-edit"></i> Editar Aluno</h2>
+        <form action="/Aluno/Update" method="post" onsubmit="validarFormulario()" onload="situacaoAluno()">
+
+            <input type="hidden" name="Aluno.id" value="@ViewBag.Aluno.Id" class="form-control" />
+
+            <div>
+                <label for="campo-nome">Nome</label>
+                <input type="text" class="form-control" name="Aluno.Nome" id="campo-nome" required value="@ViewBag.Aluno.Nome" onfocus="validarCampoNome()" />
+                @Html.ValidationMessage("Aluno.Nome", new { @class = "text-danger" })
+            </div>
+            <div>
+                <label for="campo-codigo-matricula">Código Matricula</label>
+                <input type="text" class="form-control" name="Aluno.CodigoMatricula" id="campo-codigo-matricula" required value="@ViewBag.Aluno.CodigoMatricula" onfocus="validarCampoCodigoMatricula()" />
+                @Html.ValidationMessage("Aluno.CodigoMatricula", new { @class = "text-danger" })
+            </div>
+            <div>
+                <label for="campo-nota1">Nota 1</label>
+                <input type="text" class="form-control" name="Aluno.Nota_1" id="campo-nota1" required value="@ViewBag.Aluno.Nota_1" onfocus="validarCampoNota()" onblur="situacaoAluno()" />
+                @Html.ValidationMessage("Aluno.Nota_1", new { @class = "text-danger" })
+            </div>
+            <div>
+                <label for="campo-nota2">Nota 2</label>
+                <input type="text" class="form-control" name="Aluno.Nota_2" id="campo-nota2" required value="@ViewBag.Aluno.Nota_2" onfocus="validarCampoNota()" onblur="situacaoAluno()" />
+                @Html.ValidationMessage("Aluno.Nota_2", new { @class = "text-danger" })
+            </div>
+            <div>
+                <label for="campo-nota3">Nota 3</label>
+                <input type="text" class="form-control" name="Aluno.Nota_3" id="campo-nota3" required value="@ViewBag.Aluno.Nota_3" onfocus="validarCampoNota()" onblur="situacaoAluno()" />
+                @Html.ValidationMessage("Aluno.Nota_3", new { @class = "text-danger" })
+            </div>
+            <div>
+                <label for="campo-frequencia">Frequencia</label>
+                <input type="text" class="form-control" name="Aluno.Frequencia" id="campo-frequencia" required value="@ViewBag.Aluno.Frequencia" onfocus="validarCampoFrequenci()" onblur="situacaoAluno()" />
+                @Html.ValidationMessage("Aluno.Frequencia", new { @class = "text-danger" })
+            </div>
+            <div>
+                <label for="campo-situacao">Situação</label>
+                <input type="text" class="form-control" name="Aluno.Situacao" id="campo-situacao" value="@ViewBag.Aluno.Situacao" onfocus="situacaoAluno()" />
+
+            </div>
+
+            <div>
+                Situação: <span id="situacao"></span>
+            </div>
+            <div>
+                <button type="button" class="btn btn-warning font-weight-normal" name="button" onblur="situacaoAluno()"><i class="fa fa-angle-right"></i>Ver Situação do Aluno</button>
+            </div>
+            <button type="submit" class="btn btn-outline-success float-right"><i class="fa fa-save"></i>Salvar</button>
+        </form>
+    </div>
+</div>

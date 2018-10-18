@@ -1,0 +1,11 @@
+C:\Users\100085\Documents\Visual Studio 2013\Projects\ExemploSerializacao\ExemploSerializacao\bin\Debug\ExemploSerializacao.exe.config
+C:\Users\100085\Documents\Visual Studio 2013\Projects\ExemploSerializacao\ExemploSerializacao\bin\Debug\ExemploSerializacao.exe
+C:\Users\100085\Documents\Visual Studio 2013\Projects\ExemploSerializacao\ExemploSerializacao\bin\Debug\ExemploSerializacao.pdb
+C:\Users\100085\Documents\Visual Studio 2013\Projects\ExemploSerializacao\ExemploSerializacao\bin\Debug\Model.dll
+C:\Users\100085\Documents\Visual Studio 2013\Projects\ExemploSerializacao\ExemploSerializacao\bin\Debug\Model.pdb
+C:\Users\100085\Documents\Visual Studio 2013\Projects\ExemploSerializacao\ExemploSerializacao\obj\Debug\ExemploSerializacao.csprojResolveAssemblyReference.cache
+C:\Users\100085\Documents\Visual Studio 2013\Projects\ExemploSerializacao\ExemploSerializacao\obj\Debug\ExemploSerializacao.ListaPersonagem.resources
+C:\Users\100085\Documents\Visual Studio 2013\Projects\ExemploSerializacao\ExemploSerializacao\obj\Debug\ExemploSerializacao.Properties.Resources.resources
+C:\Users\100085\Documents\Visual Studio 2013\Projects\ExemploSerializacao\ExemploSerializacao\obj\Debug\ExemploSerializacao.csproj.GenerateResource.Cache
+C:\Users\100085\Documents\Visual Studio 2013\Projects\ExemploSerializacao\ExemploSerializacao\obj\Debug\ExemploSerializacao.exe
+C:\Users\100085\Documents\Visual Studio 2013\Projects\ExemploSerializacao\ExemploSerializacao\obj\Debug\ExemploSerializacao.pdb

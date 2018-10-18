@@ -1,0 +1,3 @@
+C:\Users\100085\Documents\GitHub\ExemploStringBuild\Gerenciador DePoneisOO\Gerenciador DePoneisOO\bin\Debug\Gerenciador DePoneisOO.exe.config
+C:\Users\100085\Documents\Visual Studio 2013\Projects\Gerenciador DePoneisOO\Gerenciador DePoneisOO\bin\Debug\Gerenciador DePoneisOO.exe.config
+C:\Users\Windows 10\Documents\GitHub\exemplo-cadastro-poney\bin\Debug\Gerenciador DePoneisOO.exe.config

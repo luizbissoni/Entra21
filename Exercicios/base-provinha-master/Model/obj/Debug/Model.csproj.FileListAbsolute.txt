@@ -1,0 +1,5 @@
+C:\Users\100085\Documents\Visual Studio 2013\Projects\BaseProvinha\Model\bin\Debug\Model.dll
+C:\Users\100085\Documents\Visual Studio 2013\Projects\BaseProvinha\Model\bin\Debug\Model.pdb
+C:\Users\100085\Documents\Visual Studio 2013\Projects\BaseProvinha\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\100085\Documents\Visual Studio 2013\Projects\BaseProvinha\Model\obj\Debug\Model.dll
+C:\Users\100085\Documents\Visual Studio 2013\Projects\BaseProvinha\Model\obj\Debug\Model.pdb

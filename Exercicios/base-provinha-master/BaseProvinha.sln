@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFA", "WFA\WFA.csproj", "{E1CFEEA6-783C-4E1D-B946-1DA9D276F0B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{3902DCCE-D63B-459A-841A-4B416BB3C647}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1CFEEA6-783C-4E1D-B946-1DA9D276F0B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1CFEEA6-783C-4E1D-B946-1DA9D276F0B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1CFEEA6-783C-4E1D-B946-1DA9D276F0B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1CFEEA6-783C-4E1D-B946-1DA9D276F0B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3902DCCE-D63B-459A-841A-4B416BB3C647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3902DCCE-D63B-459A-841A-4B416BB3C647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3902DCCE-D63B-459A-841A-4B416BB3C647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3902DCCE-D63B-459A-841A-4B416BB3C647}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

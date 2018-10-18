@@ -1,0 +1,13 @@
+C:\Users\100085\Documents\GitHub\ExemploStringBuild\ExemploListaWFA\ExemploListaWFA\bin\Debug\ExemploListaWFA.exe.config
+C:\Users\100085\Documents\GitHub\ExemploStringBuild\ExemploListaWFA\ExemploListaWFA\bin\Debug\ExemploListaWFA.exe
+C:\Users\100085\Documents\GitHub\ExemploStringBuild\ExemploListaWFA\ExemploListaWFA\bin\Debug\ExemploListaWFA.pdb
+C:\Users\100085\Documents\GitHub\ExemploStringBuild\ExemploListaWFA\ExemploListaWFA\obj\Debug\ExemploListaWFA.csprojResolveAssemblyReference.cache
+C:\Users\100085\Documents\GitHub\ExemploStringBuild\ExemploListaWFA\ExemploListaWFA\obj\Debug\ExemploListaWFA.Exemplo01.resources
+C:\Users\100085\Documents\GitHub\ExemploStringBuild\ExemploListaWFA\ExemploListaWFA\obj\Debug\ExemploListaWFA.Properties.Resources.resources
+C:\Users\100085\Documents\GitHub\ExemploStringBuild\ExemploListaWFA\ExemploListaWFA\obj\Debug\ExemploListaWFA.csproj.GenerateResource.Cache
+C:\Users\100085\Documents\GitHub\ExemploStringBuild\ExemploListaWFA\ExemploListaWFA\obj\Debug\ExemploListaWFA.exe
+C:\Users\100085\Documents\GitHub\ExemploStringBuild\ExemploListaWFA\ExemploListaWFA\obj\Debug\ExemploListaWFA.pdb
+C:\Users\100085\Documents\GitHub\ExemploStringBuild\ExemploListaWFA\ExemploListaWFA\obj\Debug\ExemploListaWFA.MenuExemplos.resources
+C:\Users\Windows 10\Documents\GitHub\exemplo-lista-WFA\bin\Debug\ExemploListaWFA.exe.config
+C:\Users\Windows 10\Documents\GitHub\exemplo-lista-WFA\obj\Debug\ExemploListaWFA.exe
+C:\Users\Windows 10\Documents\GitHub\exemplo-lista-WFA\obj\Debug\ExemploListaWFA.pdb

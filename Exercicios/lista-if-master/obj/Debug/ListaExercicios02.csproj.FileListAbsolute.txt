@@ -1,0 +1,6 @@
+C:\Users\100085\Documents\Visual Studio 2013\Projects\ExemplosBasicos\ListaExercicios02\bin\Debug\ListaExercicios02.exe.config
+C:\Users\100085\Documents\Visual Studio 2013\Projects\ExemplosBasicos\ListaExercicios02\bin\Debug\ListaExercicios02.exe
+C:\Users\100085\Documents\Visual Studio 2013\Projects\ExemplosBasicos\ListaExercicios02\bin\Debug\ListaExercicios02.pdb
+C:\Users\100085\Documents\Visual Studio 2013\Projects\ExemplosBasicos\ListaExercicios02\obj\Debug\ListaExercicios02.csprojResolveAssemblyReference.cache
+C:\Users\100085\Documents\Visual Studio 2013\Projects\ExemplosBasicos\ListaExercicios02\obj\Debug\ListaExercicios02.exe
+C:\Users\100085\Documents\Visual Studio 2013\Projects\ExemplosBasicos\ListaExercicios02\obj\Debug\ListaExercicios02.pdb

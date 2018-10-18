@@ -1,0 +1,37 @@
+C:\Users\Windows 10\Documents\GitHub\trabalho-youtuber\Exercicio-Fada\Exercicio-Fada\bin\Debug\Exercicio-Fada.exe.config
+C:\Users\Windows 10\Documents\GitHub\trabalho-youtuber\Exercicio-Fada\Exercicio-Fada\bin\Debug\Exercicio-Fada.exe
+C:\Users\Windows 10\Documents\GitHub\trabalho-youtuber\Exercicio-Fada\Exercicio-Fada\bin\Debug\Exercicio-Fada.pdb
+C:\Users\Windows 10\Documents\GitHub\trabalho-youtuber\Exercicio-Fada\Exercicio-Fada\bin\Debug\Model.dll
+C:\Users\Windows 10\Documents\GitHub\trabalho-youtuber\Exercicio-Fada\Exercicio-Fada\bin\Debug\Model.pdb
+C:\Users\Windows 10\Documents\GitHub\trabalho-youtuber\Exercicio-Fada\Exercicio-Fada\obj\Debug\Exercicio-Fada.csprojResolveAssemblyReference.cache
+C:\Users\Windows 10\Documents\GitHub\trabalho-youtuber\Exercicio-Fada\Exercicio-Fada\obj\Debug\Exercicio_Fada.CadastroFadas.resources
+C:\Users\Windows 10\Documents\GitHub\trabalho-youtuber\Exercicio-Fada\Exercicio-Fada\obj\Debug\Exercicio_Fada.Properties.Resources.resources
+C:\Users\Windows 10\Documents\GitHub\trabalho-youtuber\Exercicio-Fada\Exercicio-Fada\obj\Debug\Exercicio-Fada.csproj.GenerateResource.Cache
+C:\Users\Windows 10\Documents\GitHub\trabalho-youtuber\Exercicio-Fada\Exercicio-Fada\obj\Debug\Exercicio-Fada.exe
+C:\Users\Windows 10\Documents\GitHub\trabalho-youtuber\Exercicio-Fada\Exercicio-Fada\obj\Debug\Exercicio-Fada.pdb
+C:\Users\Windows 10\Documents\GitHub\Exercicio-Fada\Exercicio-Fada\bin\Debug\Exercicio-Fada.exe.config
+C:\Users\Windows 10\Documents\GitHub\Exercicio-Fada\Exercicio-Fada\obj\Debug\Exercicio-Fada.exe
+C:\Users\Windows 10\Documents\GitHub\Exercicio-Fada\Exercicio-Fada\obj\Debug\Exercicio-Fada.pdb
+C:\Users\100085\Documents\GitHub\Exercicio-Fada\Exercicio-Fada\bin\Debug\Exercicio-Fada.exe.config
+C:\Users\100085\Documents\GitHub\Exercicio-Fada\Exercicio-Fada\obj\Debug\Exercicio-Fada.exe
+C:\Users\100085\Documents\GitHub\Exercicio-Fada\Exercicio-Fada\obj\Debug\Exercicio-Fada.pdb
+C:\Users\100085\Documents\GitHub\Exercicio-Fada\Exercicio-Fada\bin\Debug\Exercicio-Fada.exe
+C:\Users\100085\Documents\GitHub\Exercicio-Fada\Exercicio-Fada\bin\Debug\Exercicio-Fada.pdb
+C:\Users\100085\Documents\GitHub\Exercicio-Fada\Exercicio-Fada\bin\Debug\Model.dll
+C:\Users\100085\Documents\GitHub\Exercicio-Fada\Exercicio-Fada\bin\Debug\Model.pdb
+C:\Users\100085\Documents\GitHub\Exercicio-Fada\Exercicio-Fada\obj\Debug\Exercicio-Fada.csprojResolveAssemblyReference.cache
+C:\Users\100085\Documents\GitHub\Exercicio-Fada\Exercicio-Fada\obj\Debug\Exercicio_Fada.CadastroFadas.resources
+C:\Users\100085\Documents\GitHub\Exercicio-Fada\Exercicio-Fada\obj\Debug\Exercicio_Fada.Properties.Resources.resources
+C:\Users\100085\Documents\GitHub\Exercicio-Fada\Exercicio-Fada\obj\Debug\Exercicio-Fada.csproj.GenerateResource.Cache
+C:\Users\100085\Documents\GitHub\Exercicio-Fada\Exercicio-Fada\obj\Debug\Model.CadastroRapido.resources
+C:\Users\T-Gamer\Documents\GitHub\Exercicio-Fada\Exercicio-Fada\bin\Debug\Exercicio-Fada.exe.config
+C:\Users\T-Gamer\Documents\GitHub\Exercicio-Fada\Exercicio-Fada\bin\Debug\Exercicio-Fada.exe
+C:\Users\T-Gamer\Documents\GitHub\Exercicio-Fada\Exercicio-Fada\bin\Debug\Exercicio-Fada.pdb
+C:\Users\T-Gamer\Documents\GitHub\Exercicio-Fada\Exercicio-Fada\bin\Debug\Model.dll
+C:\Users\T-Gamer\Documents\GitHub\Exercicio-Fada\Exercicio-Fada\bin\Debug\Model.pdb
+C:\Users\T-Gamer\Documents\GitHub\Exercicio-Fada\Exercicio-Fada\obj\Debug\Exercicio_Fada.CadastroFadas.resources
+C:\Users\T-Gamer\Documents\GitHub\Exercicio-Fada\Exercicio-Fada\obj\Debug\Exercicio_Fada.Properties.Resources.resources
+C:\Users\T-Gamer\Documents\GitHub\Exercicio-Fada\Exercicio-Fada\obj\Debug\Exercicio-Fada.csproj.GenerateResource.cache
+C:\Users\T-Gamer\Documents\GitHub\Exercicio-Fada\Exercicio-Fada\obj\Debug\Exercicio-Fada.exe
+C:\Users\T-Gamer\Documents\GitHub\Exercicio-Fada\Exercicio-Fada\obj\Debug\Exercicio-Fada.pdb
+C:\Users\T-Gamer\Documents\GitHub\Exercicio-Fada\Exercicio-Fada\obj\Debug\Exercicio-Fada.csprojResolveAssemblyReference.cache

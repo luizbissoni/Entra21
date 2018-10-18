@@ -1,0 +1,68 @@
+﻿@{
+    Layout = "~/Views/Shared/Master.cshtml";
+}
+
+@Html.ActionLink("Home", "Index", "Index", new { @class = "btn btn-dark float-right mb-2 mt-2" })
+
+<div>
+    <div class="container">
+
+        <h2><i class="fa fa-user-plus"></i> Cadastro Aluno</h2>
+
+        <form action="/Aluno/Store" method="post" onsubmit="validarFormulario()">
+
+            <div class="form-group" id="div-campo-nome">
+                <label for="campo-nome">Nome<span class="text-danger font-wight-bold">*</span></label>
+                <input type="text" class="form-control" name="Aluno.Nome" id="campo-nome" required value="@ViewBag.Aluno.Nome" onfocus="validarCampoNome()" onblur="validarCampoNome()" />
+                @Html.ValidationMessage("Aluno.Nome", new { @class = "text-danger" })
+            </div>
+            <div class="form-group" id="div-campo-codigo-matricula">
+                <label for="campo-codigo-matricula">Código Matricula<span class="text-danger font-wight-bold">*</span></label>
+                <input type="text" class="form-control" name="Aluno.CodigoMatricula" id="campo-codigo-matricula" required value="@ViewBag.Aluno.CodigoMatricula" onfocus="validarCampoCodigoMatricula()" />
+                @Html.ValidationMessage("Aluno.CodigoMatricula", new { @class = "text-danger" })
+            </div>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="form-group" id="div-campo-nota1">
+                        <label for="campo-nota1">Nota 1<span class="text-danger font-wight-bold">*</span></label>
+                        <input type="text" class="form-control" name="Aluno.Nota_1" id="campo-nota1" required value="@ViewBag.Aluno.Nota_1" onfocus="validarCampoNota()" />
+                        @Html.ValidationMessage("Aluno.Nota_1", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="form-group" id="div-campo-nota2">
+                        <label for="campo-nota2">Nota 2<span class="text-danger font-wight-bold">*</span></label>
+                        <input type="text" class="form-control" name="Aluno.Nota_2" id="campo-nota2" required value="@ViewBag.Aluno.Nota_2" onfocus="validarCampoNota()" />
+                        @Html.ValidationMessage("Aluno.Nota_2", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="form-group" id="div-campo-nota3">
+                        <label for="campo-nota3">Nota 3<span class="text-danger font-wight-bold">*</span></label>
+                        <input type="text" class="form-control" name="Aluno.Nota_3" id="campo-nota3" required value="@ViewBag.Aluno.Nota_3" onfocus="validarCampoNota()" />
+                        @Html.ValidationMessage("Aluno.Nota_3", new { @class = "text-danger" })
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="form-group" id="div-campo-frequencia">
+                <label for="campo-frequencia">Frequencia</label>
+                <input type="text" class="form-control" name="Aluno.Frequencia" id="campo-frequencia" required value="@ViewBag.Aluno.Frequencia" onfocus="validarCampoFrequenci()" />
+                @Html.ValidationMessage("Aluno.Frequencia", new { @class = "text-danger" })
+            </div>
+            <div>
+                    <label for="campo-situacao">Situação</label>
+                    <input type="text" class="form-control" name="Aluno.Situacao" id="campo-situacao" value="@ViewBag.Aluno.Situacao" onfocus="situacaoAluno()" />
+                </div>
+            <div>
+                Situação: <span id="situacao"></span>
+            </div>
+            <div>
+                <button type="button" class="btn btn-warning font-weight-normal" name="button" onclick="situacaoAluno()"><i class="fa fa-angle-right"></i>Ver Situação do Aluno</button>
+            </div>
+            <button type="submit" class="btn btn-success" onclick=""><i class="fa fa-save"></i>Salvar</button>
+        </form>
+    </div>
+</div>

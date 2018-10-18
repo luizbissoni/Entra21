@@ -1,0 +1,11 @@
+C:\Users\100085\Documents\GitHub\ExemploStringBuild\ExemploStringBuilder\ExemploStringBuilder\bin\Debug\ExemploStringBuilder.exe.config
+C:\Users\100085\Documents\GitHub\ExemploStringBuild\ExemploStringBuilder\ExemploStringBuilder\bin\Debug\ExemploStringBuilder.exe
+C:\Users\100085\Documents\GitHub\ExemploStringBuild\ExemploStringBuilder\ExemploStringBuilder\bin\Debug\ExemploStringBuilder.pdb
+C:\Users\100085\Documents\GitHub\ExemploStringBuild\ExemploStringBuilder\ExemploStringBuilder\obj\Debug\ExemploStringBuilder.csprojResolveAssemblyReference.cache
+C:\Users\100085\Documents\GitHub\ExemploStringBuild\ExemploStringBuilder\ExemploStringBuilder\obj\Debug\ExemploStringBuilder.Exemplo01.resources
+C:\Users\100085\Documents\GitHub\ExemploStringBuild\ExemploStringBuilder\ExemploStringBuilder\obj\Debug\ExemploStringBuilder.Exemplo02.resources
+C:\Users\100085\Documents\GitHub\ExemploStringBuild\ExemploStringBuilder\ExemploStringBuilder\obj\Debug\ExemploStringBuilder.Form1.resources
+C:\Users\100085\Documents\GitHub\ExemploStringBuild\ExemploStringBuilder\ExemploStringBuilder\obj\Debug\ExemploStringBuilder.Properties.Resources.resources
+C:\Users\100085\Documents\GitHub\ExemploStringBuild\ExemploStringBuilder\ExemploStringBuilder\obj\Debug\ExemploStringBuilder.csproj.GenerateResource.Cache
+C:\Users\100085\Documents\GitHub\ExemploStringBuild\ExemploStringBuilder\ExemploStringBuilder\obj\Debug\ExemploStringBuilder.exe
+C:\Users\100085\Documents\GitHub\ExemploStringBuild\ExemploStringBuilder\ExemploStringBuilder\obj\Debug\ExemploStringBuilder.pdb
